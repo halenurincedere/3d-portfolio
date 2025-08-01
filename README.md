@@ -3,8 +3,6 @@
 A modern 3D portfolio built with **React**, **Three.js (React Three Fiber)**, **TailwindCSS**, and **Framer Motion**.  
 Designed with scalability and performance in mind — perfect for showcasing your work as a developer.
 
-> ℹ️ This project is adapted from [Ali Sanati's 3D Developer Portfolio](https://github.com/Ali-Sanati/Portfolio).  
-
 ---
 
 ## 📌 Overview
@@ -16,7 +14,7 @@ This is a fully responsive, interactive 3D portfolio interface featuring smooth 
 ## 🔗 Live Demo
 
 View the deployed application here:  
-[Live Site on Netlify](https://3d-portfolio.netlify.app)
+[Live Site on Netlify](https://lumi-3d-portfolio.netlify.app)
 
 ## 🎥 Project Previews
 
